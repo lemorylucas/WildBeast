@@ -62,7 +62,7 @@ img {
 
 .header {
   grid-area: header;
-  background: linear-gradient(135deg, #8844ee, #B07DfB);
+  background: linear-gradient(135deg, #CBA328, #EAD637);
   padding: 30px 0;
   display: flex;
   justify-content: space-around;
@@ -71,7 +71,7 @@ img {
 }
 
 .logo {
-  color: #fff;
+  color: #fcfccf;
   font-size: 3.5em;
 }
 
@@ -84,7 +84,7 @@ img {
   display: block;
   padding: 10px;
   margin: 0 10px;
-  color: #fff;
+  color: #fcfcfc;
   font-size: 1.25em;
   background: rgba(0, 0, 0, 0.1);
   border-radius: 5px;
@@ -155,7 +155,7 @@ img {
 }
 
 .sidenav li a:hover {
-  background: #b07dfb;
+  background: #EEDC59;
 }
 
 .content {
@@ -203,7 +203,7 @@ p {
 }
 
 .titulo {
-  color: #B07DfB;
+  color: #CBA328;
 }
 
 .titulo h1 {
@@ -225,7 +225,7 @@ p {
 .caracteristicas > div {
   width: 80px;
   text-align: center;
-  background: linear-gradient(135deg, #8844ee, #B07DfB);
+  background: linear-gradient(135deg, #CBA328, #EAD637);
   border-radius: 5px;
   box-shadow: 5px 15px 15px 0 rgba(44, 44, 44, 0.15);
   position: relative;
@@ -237,13 +237,13 @@ p {
 
 .caracteristicas span {
   display: block;
-  color: #B07DfB;
+  color: #F1E47E;
 }
 
 .numero {
   font-size: 3em;
   line-height: 1;
-  color: #B07DfB;
+  color: #CBA328;
   margin: 10px auto;
 }
 
@@ -257,7 +257,7 @@ p {
 
 .destaque {
   font-size: 0.875em;
-  color: #B07DfB;
+  color: #CBA328;
   max-width: 16em;
 }
 
@@ -265,12 +265,12 @@ p {
   padding: 30px;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
-  background: linear-gradient(135deg, #8844ee, #B07DfB);
+  background: linear-gradient(135deg, #CBA328, #EAD637);
   align-self: start;
 }
 
 .citacao p {
-  color: #fff;
+  color: #fcfcfc;
   font-size: 1.5em;
   font-style: italic;
   text-align: center;
@@ -286,7 +286,7 @@ p {
 }
 
 .atributos li + li{
-  border-top: 2px solid #B07DfB;
+  border-top: 2px solid #EAD637;
 }
 
 .anuncios {
@@ -305,11 +305,11 @@ p {
 
 .footer {
   grid-area: footer;
-  background: linear-gradient(135deg, #8844ee, #B07DfB);
+  background: linear-gradient(135deg, #CBA328, #EAD637);
 }
 
 .footer p {
-  color: #fff;
+  color: #fcfcfc;
   padding: 30px;
   text-align: center;
 }
